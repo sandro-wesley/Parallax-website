@@ -1,0 +1,1 @@
+Este é um site com imagens estilo parallax, que nada mais é um efeito 3D dado as imagens, é muito comum ver sites utilizando esse efeito atualmente.  
